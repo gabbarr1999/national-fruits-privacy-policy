@@ -6,85 +6,109 @@ title: Privacy Policy
 # Privacy Policy
 
 **Effective Date:** May 6, 2025  
-**App Name:** National Fruits and Dry Fruits App
+**App Name:** National Fruits and Dry Fruits Center
 
-Welcome to our app. We are committed to protecting your privacy and being transparent about how we collect and use data. This policy explains what information we collect, how we use it, and how you can control or delete your data.
+Thank you for using our app! We are committed to protecting your privacy and providing transparency about how we collect, use, and safeguard your information. This Privacy Policy explains what data we collect, why we collect it, how we use it, and how you can control or delete your data.
 
 ---
 
 ## 1. Information We Collect
 
-Our app may collect the following data:
+We collect the following types of information when you use our app:
 
-- **Device Info:** Android version, device type (used for app optimization)
-- **Crash/Error Logs:** Helps us fix bugs and improve stability
-- **Usage Analytics (Optional):** To understand user interaction and improve the app
+- **Personal Information**
+  - First Name and Last Name
+  - Mobile Number
+  - Email Address
+  - Physical Address (for delivery, billing, or service purposes)
 
-> ❌ We do NOT collect personal identifiers such as names, email addresses, phone numbers, or location.
+- **Device and App Information**
+  - Device type, Android version (for compatibility and optimization)
+  - Crash logs and diagnostics (for improving app stability)
+  - Usage data (e.g., which features are used)
 
 ---
 
 ## 2. Why We Collect This Data
 
-We collect only non-personal, anonymous data to:
+We collect your data for the following purposes:
 
-- Improve performance and app reliability
-- Fix crashes or bugs
-- Ensure compatibility with Android versions
+- To process orders, deliveries, and customer requests
+- To communicate with you about your orders or support needs
+- To improve the app’s performance, reliability, and features
+- To send important updates or service-related notifications
 
----
-
-## 3. Data Sharing Policy
-
-We **do not** sell, share, or rent your data to any third party. All collected data is used **only for internal improvement**.
+We **do not** use your personal information for advertising or sell it to third parties.
 
 ---
 
-## 4. User Data Deletion
+## 3. How We Use and Store Your Data
 
-You have the right to request deletion of any data we may have about you. Since we do not store personal information, there is usually **no identifiable data stored**. However:
+- Your personal data is stored securely on our servers.
+- We implement reasonable safeguards (encryption, access controls) to protect your data.
+- Only authorized personnel have access to personal information.
 
-- If future versions of the app include any login or identifiable data collection, this policy will be updated.
-- You can request deletion of crash/usage logs by contacting us.
+We retain your data **only as long as necessary** for providing services or as required by law.
+
+---
+
+## 4. Data Sharing Policy
+
+We **do not sell or rent** your data to third parties.
+
+We may share data only in these situations:
+- With trusted partners or services that help us deliver our services (e.g., delivery providers, payment processors)
+- To comply with legal obligations, such as a court order or legal request
+- To protect the rights, safety, or property of our users, the public, or the app
+
+---
+
+## 5. User Data Deletion
+
+You have the right to request deletion of your personal data at any time.
 
 ### ✅ How to Delete Your Data
-
-If you wish to delete all associated data:
 - **Email us at:** gabbarr1999@gmail.com  
-- Subject: `Data Deletion Request - National Fruits App`  
-- Mention your device model and app version.
+- Subject: `Account Deletion Request - National Fruits App`  
+- Provide your registered mobile number or email address.
 
-We will delete any logs or records associated with your request within **7 business days**.
-
----
-
-## 5. Account Deletion (If Applicable)
-
-Our app currently **does not require an account** or login.  
-If a future version allows account creation:
-- A **Delete My Account** option will be provided inside the app.
-- Alternatively, users can contact us by email to request permanent deletion.
+Once we verify your request, we will:
+- Delete your personal data from our systems
+- Remove your order or account records
+- Confirm the deletion within **7 business days**
 
 ---
 
-## 6. Children's Privacy
+## 6. How to Delete Your Account (Permanent Deletion)
 
-Our app does not target children under the age of 13 and does not knowingly collect data from them.
-
----
-
-## 7. Changes to This Privacy Policy
-
-We may update this policy to reflect changes to our app or new legal requirements. The updated date will always be shown at the top.
+Currently, you can delete your account by:
+- Contacting our support team via email as outlined above.
+- In future updates, we may provide an in-app **Delete My Account** feature.
 
 ---
 
-## 8. Contact Us
+## 7. Children's Privacy
 
-For any questions, complaints, or deletion requests:
+Our app is not intended for children under 13 years of age. We do not knowingly collect personal information from children.
 
-**Email:** gabbarr1999@gmail.com  
-**Developer:** Gabbarr1999  
-**GitHub Page:** [https://gabbarr1999.github.io/fruites-privacy](https://gabbarr1999.github.io/fruites-privacy)
+If you are a parent or guardian and believe your child has provided us personal data, please contact us immediately.
+
+---
+
+## 8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated effective date.
+
+We encourage you to review this policy regularly.
+
+---
+
+## 9. Contact Us
+
+If you have any questions, requests, or complaints about this Privacy Policy, please contact us:
+
+- **Email:** gabbarr1999@gmail.com  
+- **Developer:** Gabbarr1999  
+- **GitHub Page:** [https://gabbarr1999.github.io/fruites-privacy](https://gabbarr1999.github.io/fruites-privacy)
 
 ---
